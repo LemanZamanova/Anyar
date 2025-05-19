@@ -1,0 +1,82 @@
+﻿@using WebApplication1.Models
+@using WebApplication1.ViewModels
+
+@model CreateEmployeeVM
+
+<div class="row">
+    <div class="col-12 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Create Employee</h4>
+
+                <form asp-action="Create" method="post" enctype="multipart/form-data" class="forms-sample">
+                    <div class="form-group">
+                        <label asp-for="Name">Name</label>
+                        <br />
+                        <input asp-for="Name" class="form-control" placeholder="Name">
+                        <span class="text-danger" asp-validation-for="Name"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Surname">Surname</label>
+                        <br />
+                        <input asp-for="Surname" class="form-control" placeholder="Surname">
+                        <span class="text-danger" asp-validation-for="Surname"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Photo">Image</label>
+                        <br />
+                        <input asp-for="Photo" type="file" class="form-control" placeholder="Image">
+                        <span class="text-danger" asp-validation-for="Photo"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="XUrl">XUrl</label>
+                        <br />
+                        <input asp-for="XUrl"  class="form-control" placeholder="Xurl">
+                        <span class="text-danger" asp-validation-for="XUrl"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="LinkedinUrl">LinkedinUrl</label>
+                        <br />
+                        <input asp-for="LinkedinUrl" class="form-control" placeholder="LinkedinUrl">
+                        <span class="text-danger" asp-validation-for="LinkedinUrl"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="FacebookUrl">FacebookUrl</label>
+                        <br />
+                        <input asp-for="FacebookUrl" class="form-control" placeholder="FacebookUrl">
+                        <span class="text-danger" asp-validation-for="FacebookUrl"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="InstagramUrl">Instagramurl</label>
+                        <br />
+                        <input asp-for="InstagramUrl"  class="form-control" placeholder="InstagramUrl">
+                        <span class="text-danger" asp-validation-for="InstagramUrl"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="PositionId">Position</label>
+                        <br />
+                        <select asp-for="PositionId" class="form-control" placeholder="Position">
+                            <option selected disabled>Choose Position</option>
+                            @foreach(Position position in Model.Positions)
+                            {
+                                <option value="@position.Id">@position.Name</option>
+                            }
+                            </select>
+                            <span class="text-danger" asp-validation-for="PositionId"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Description">Description</label>
+                        <br />
+                        <textarea rows="8" asp-for="Description" class="form-control" placeholder="Description">
+                            </textarea>
+                        <span class="text-danger" asp-validation-for="Description"></span>
+                    </div>
+
+                    <button type="submit" class="btn btn-primary me-2">Submit</button>
+                    <button class="btn btn-light">Cancel</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

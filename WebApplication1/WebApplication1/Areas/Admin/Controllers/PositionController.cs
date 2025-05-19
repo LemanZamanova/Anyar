@@ -17,7 +17,7 @@ namespace WebApplication1.Areas.Admin.Controllers
         }
         public async Task<IActionResult> Index()
         {
-            List<Position>positions= await _context.Positions.Include(p=>p.Employees).AsNoTracking().ToListAsync();
+            List<Position> positions = await _context.Positions.Include(p => p.Employees).AsNoTracking().ToListAsync();
             return View(positions);
         }
         [HttpGet]
@@ -27,34 +27,36 @@ namespace WebApplication1.Areas.Admin.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> Create( Position position)
+        public async Task<IActionResult> Create(Position position)
         {
-            if(!ModelState.IsValid) 
-                {
+            if (!ModelState.IsValid)
+            {
                 return View(position);
-                }
-            bool result=await _context.Positions.AnyAsync(p=>p.Name == position.Name);
-            if(result) 
-                {
-                ModelState.AddModelError(nameof(Position.Name),$"{position.Name} named alredy exists");
-               return View();
             }
-           await _context.Positions.AddAsync(position);
-             await _context.SaveChangesAsync();
-           return RedirectToAction("Index");
+            bool result = await _context.Positions.AnyAsync(p => p.Name == position.Name);
+            if (result)
+            {
+                ModelState.AddModelError(nameof(Position.Name), $"{position.Name} named alredy exists");
+                return View();
+            }
+
+
+            await _context.Positions.AddAsync(position);
+            await _context.SaveChangesAsync();
+            return RedirectToAction("Index");
         }
         [HttpGet]
         public async Task<IActionResult> Update(int? id)
         {
 
             if (id is null || id <= 0) return BadRequest();
-           Position? position = await _context.Positions.FirstOrDefaultAsync(p=>p.Id == id);
-            if(position is null) return NotFound();
+            Position? position = await _context.Positions.FirstOrDefaultAsync(p => p.Id == id);
+            if (position is null) return NotFound();
             return View(position);
         }
 
         [HttpPost]
-        public async Task<IActionResult> Update(int? id,Position position)
+        public async Task<IActionResult> Update(int? id, Position position)
         {
             if (!ModelState.IsValid)
             {
@@ -62,14 +64,14 @@ namespace WebApplication1.Areas.Admin.Controllers
 
 
             }
-            bool result= await _context.Positions.AnyAsync(p=>p.Name == position.Name);
+            bool result = await _context.Positions.AnyAsync(p => p.Name == position.Name);
             if (result)
             {
                 ModelState.AddModelError(nameof(Position.Name), $"{position.Name} already exists");
 
                 return View();
             }
-            Position? existed = await _context.Positions.FirstOrDefaultAsync(c=>c.Id==id);
+            Position? existed = await _context.Positions.FirstOrDefaultAsync(c => c.Id == id);
             existed.Name = position.Name;
             await _context.SaveChangesAsync();
             return RedirectToAction("Index");
@@ -83,7 +85,7 @@ namespace WebApplication1.Areas.Admin.Controllers
 
             if (existed is null) return NotFound();
 
-           
+
             _context.Positions.Remove(existed);
             await _context.SaveChangesAsync();
             return RedirectToAction("Index");
@@ -92,4 +94,4 @@ namespace WebApplication1.Areas.Admin.Controllers
 
 
     }
-    }
+}

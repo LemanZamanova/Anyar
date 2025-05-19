@@ -107,8 +107,14 @@ wwwroot\assets\img\portfolio\product-1.jpg
 wwwroot\assets\img\portfolio\product-2.jpg
 wwwroot\assets\img\portfolio\product-3.jpg
 wwwroot\assets\img\services.jpg
-wwwroot\assets\img\team\team-1.jpg
-wwwroot\assets\img\team\team-2.jpg
+wwwroot\assets\img\team\263c3a1b-de6d-4534-b707-ead7014e84f9.jpg
+wwwroot\assets\img\team\53b97fb1-0096-401e-940b-95fef07d758d.jpg
+wwwroot\assets\img\team\65cf665d-ebf9-41b7-abe3-83c505d37d5c.jpg
+wwwroot\assets\img\team\85654b1e-d483-404a-aacf-9a05fa97da95.jpg
+wwwroot\assets\img\team\a49941a5-4521-400b-8479-66e4854f3fd9.jpg
+wwwroot\assets\img\team\ae0978b3-fff6-4412-ba13-d5f9c0c7039c.jpg
+wwwroot\assets\img\team\e050b381-6f94-4d9e-85e5-7ae1c791173b.jpg
+wwwroot\assets\img\team\istockphoto-1389348844-612x612.jpg
 wwwroot\assets\img\team\team-3.jpg
 wwwroot\assets\img\team\team-4.jpg
 wwwroot\assets\js\main.js

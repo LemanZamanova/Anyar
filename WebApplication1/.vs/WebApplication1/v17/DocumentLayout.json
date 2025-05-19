@@ -1,98 +1,62 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\novbe2\\Desktop\\Anyar\\WebApplication1\\",
+  "WorkspaceRootPath": "C:\\Users\\HOME\\OneDrive\\Desktop\\Anyar\\WebApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|c:\\users\\novbe2\\desktop\\anyar\\webapplication1\\webapplication1\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|c:\\users\\home\\onedrive\\desktop\\anyar\\webapplication1\\webapplication1\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|c:\\users\\novbe2\\desktop\\anyar\\webapplication1\\webapplication1\\areas\\admin\\views\\position\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\position\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|c:\\users\\home\\onedrive\\desktop\\anyar\\webapplication1\\webapplication1\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|c:\\users\\novbe2\\desktop\\anyar\\webapplication1\\webapplication1\\areas\\admin\\views\\position\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\position\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|c:\\users\\home\\onedrive\\desktop\\anyar\\webapplication1\\webapplication1\\viewmodels\\user\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\viewmodels\\user\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|c:\\users\\novbe2\\desktop\\anyar\\webapplication1\\webapplication1\\areas\\admin\\views\\position\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\position\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|c:\\users\\home\\onedrive\\desktop\\anyar\\webapplication1\\webapplication1\\areas\\admin\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|c:\\users\\novbe2\\desktop\\anyar\\webapplication1\\webapplication1\\areas\\admin\\controllers\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\controllers\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|c:\\users\\novbe2\\desktop\\anyar\\webapplication1\\webapplication1\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|c:\\users\\novbe2\\desktop\\anyar\\webapplication1\\webapplication1\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|c:\\users\\novbe2\\desktop\\anyar\\webapplication1\\webapplication1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|c:\\users\\novbe2\\desktop\\anyar\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|c:\\users\\novbe2\\desktop\\anyar\\webapplication1\\webapplication1\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|c:\\users\\novbe2\\desktop\\anyar\\webapplication1\\webapplication1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|c:\\users\\novbe2\\desktop\\anyar\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|c:\\users\\novbe2\\desktop\\anyar\\webapplication1\\webapplication1\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|c:\\users\\novbe2\\desktop\\anyar\\webapplication1\\webapplication1\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|c:\\users\\novbe2\\desktop\\anyar\\webapplication1\\webapplication1\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|c:\\users\\novbe2\\desktop\\anyar\\webapplication1\\webapplication1\\migrations\\20250516110224_addemployeeandposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20250516110224_addemployeeandposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|c:\\users\\novbe2\\desktop\\anyar\\webapplication1\\webapplication1\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|c:\\users\\novbe2\\desktop\\anyar\\webapplication1\\webapplication1\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|c:\\users\\novbe2\\desktop\\anyar\\webapplication1\\webapplication1\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|c:\\users\\novbe2\\desktop\\anyar\\webapplication1\\webapplication1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|c:\\users\\novbe2\\desktop\\anyar\\webapplication1\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|c:\\users\\home\\onedrive\\desktop\\anyar\\webapplication1\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|c:\\users\\novbe2\\desktop\\anyar\\webapplication1\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|c:\\users\\home\\onedrive\\desktop\\anyar\\webapplication1\\webapplication1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|c:\\users\\novbe2\\desktop\\anyar\\webapplication1\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|c:\\users\\home\\onedrive\\desktop\\anyar\\webapplication1\\webapplication1\\viewmodels\\user\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\viewmodels\\user\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|c:\\users\\home\\onedrive\\desktop\\anyar\\webapplication1\\webapplication1\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|c:\\users\\home\\onedrive\\desktop\\anyar\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|c:\\users\\home\\onedrive\\desktop\\anyar\\webapplication1\\webapplication1\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|c:\\users\\home\\onedrive\\desktop\\anyar\\webapplication1\\webapplication1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|c:\\users\\home\\onedrive\\desktop\\anyar\\webapplication1\\webapplication1\\areas\\admin\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|c:\\users\\home\\onedrive\\desktop\\anyar\\webapplication1\\webapplication1\\viewmodels\\employeevm\\getemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\viewmodels\\employeevm\\getemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|c:\\users\\home\\onedrive\\desktop\\anyar\\webapplication1\\webapplication1\\areas\\admin\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD0958D-2292-4F5C-B517-9E480B272064}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -102,288 +66,207 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\novbe2\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Position\\Update.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\Position\\Update.cshtml",
-              "ToolTip": "C:\\Users\\novbe2\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Position\\Update.cshtml",
-              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\Position\\Update.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-16T14:03:37.584Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\novbe2\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Position\\Create.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\Position\\Create.cshtml",
-              "ToolTip": "C:\\Users\\novbe2\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Position\\Create.cshtml",
-              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\Position\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-16T12:25:00.028Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\novbe2\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Position\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\Position\\Index.cshtml",
-              "ToolTip": "C:\\Users\\novbe2\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Position\\Index.cshtml",
-              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\Position\\Index.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAADEAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-16T11:43:37.666Z"
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\ViewModels\\User\\LoginVM.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\ViewModels\\User\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\ViewModels\\User\\LoginVM.cs",
+              "RelativeToolTip": "WebApplication1\\ViewModels\\User\\LoginVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T00:51:14.759Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "PositionController.cs",
-              "DocumentMoniker": "C:\\Users\\novbe2\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\Areas\\Admin\\Controllers\\PositionController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Controllers\\PositionController.cs",
-              "ToolTip": "C:\\Users\\novbe2\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\Areas\\Admin\\Controllers\\PositionController.cs",
-              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Controllers\\PositionController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T11:30:11.504Z"
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEYAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T00:41:29.698Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\novbe2\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\novbe2\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA0AAAAAAAAAA==",
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAAAGsAAABlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-16T11:28:00.568Z",
+              "WhenOpened": "2025-05-19T00:07:14.924Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\novbe2\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\DAL\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\DAL\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\novbe2\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\DAL\\AppDbContext.cs",
-              "RelativeToolTip": "WebApplication1\\DAL\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAnwFoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T10:34:31.818Z"
+              "WhenOpened": "2025-05-18T23:47:27.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADoAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-18T23:43:24.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T00:21:06.418Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Position.cs",
-              "DocumentMoniker": "C:\\Users\\novbe2\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\Models\\Position.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Models\\Position.cs",
-              "ToolTip": "C:\\Users\\novbe2\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\Models\\Position.cs",
-              "RelativeToolTip": "WebApplication1\\Models\\Position.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\ViewModels\\User\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\ViewModels\\User\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\ViewModels\\User\\RegisterVM.cs",
+              "RelativeToolTip": "WebApplication1\\ViewModels\\User\\RegisterVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T10:32:35.728Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\novbe2\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\novbe2\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-16T10:20:25.052Z"
+              "WhenOpened": "2025-05-18T23:55:42.561Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\novbe2\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\Program.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
-              "ToolTip": "C:\\Users\\novbe2\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\Program.cs",
               "RelativeToolTip": "WebApplication1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACUAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T10:16:41.579Z"
+              "WhenOpened": "2025-05-18T22:49:48.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "WebApplication1\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T22:49:07.762Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "_AdminLayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\novbe2\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "ToolTip": "C:\\Users\\novbe2\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\Models\\AppUser.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T22:48:05.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAIBJwDIAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-16T11:28:28.026Z"
+              "WhenOpened": "2025-05-18T13:58:55.215Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\novbe2\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\Models\\Employee.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Models\\Employee.cs",
-              "ToolTip": "C:\\Users\\novbe2\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\Models\\Employee.cs",
               "RelativeToolTip": "WebApplication1\\Models\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAIA7wBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T10:26:33.157Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\novbe2\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\appsettings.json",
-              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
-              "ToolTip": "C:\\Users\\novbe2\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\appsettings.json",
-              "RelativeToolTip": "WebApplication1\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-16T10:44:02.23Z"
+              "WhenOpened": "2025-05-18T13:57:20.05Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\novbe2\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\novbe2\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Title": "GetEmployeeVM.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\ViewModels\\EmployeeVm\\GetEmployeeVM.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\ViewModels\\EmployeeVm\\GetEmployeeVM.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\ViewModels\\EmployeeVm\\GetEmployeeVM.cs",
+              "RelativeToolTip": "WebApplication1\\ViewModels\\EmployeeVm\\GetEmployeeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T11:27:41.452Z"
+              "WhenOpened": "2025-05-18T13:52:19.245Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\novbe2\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\novbe2\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-16T11:29:23.431Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\novbe2\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\novbe2\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-16T11:28:46.796Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "20250516110224_AddEmployeeAndPosition.cs",
-              "DocumentMoniker": "C:\\Users\\novbe2\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\Migrations\\20250516110224_AddEmployeeAndPosition.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20250516110224_AddEmployeeAndPosition.cs",
-              "ToolTip": "C:\\Users\\novbe2\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\Migrations\\20250516110224_AddEmployeeAndPosition.cs",
-              "RelativeToolTip": "WebApplication1\\Migrations\\20250516110224_AddEmployeeAndPosition.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T11:02:24.155Z"
-            },
+              "WhenOpened": "2025-05-18T13:50:10.419Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\novbe2\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "WebApplication1\\ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\novbe2\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "WebApplication1\\ScaffoldingReadMe.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-05-16T11:27:20.535Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "HomeVM.cs",
-              "DocumentMoniker": "C:\\Users\\novbe2\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\ViewModels\\HomeVM.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\ViewModels\\HomeVM.cs",
-              "ToolTip": "C:\\Users\\novbe2\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\ViewModels\\HomeVM.cs",
-              "RelativeToolTip": "WebApplication1\\ViewModels\\HomeVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T10:39:15.481Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\novbe2\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\Models\\Base\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Models\\Base\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\novbe2\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\Models\\Base\\BaseEntity.cs",
-              "RelativeToolTip": "WebApplication1\\Models\\Base\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T10:26:49.722Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\novbe2\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\novbe2\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-16T10:20:14.036Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\novbe2\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\novbe2\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAFIAAAAAAAAAAAAcwL4AAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-16T10:19:51.967Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\novbe2\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\novbe2\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAIgBAAAAAAAAAAAowIwBAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-16T10:19:32.539Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\novbe2\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\novbe2\\Desktop\\Anyar\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T10:19:05.521Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }
